@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">ExamenM8</string>
+    <string name="tvNombre">Nombre: </string>
+    <string name="tvTema">Tema: </string>
+    <string name="tvNumPreg">Número de preguntas: </string>
+    <string-array name="spTema">
+        <item>Sumas</item>
+        <item>Restas</item>
+        <item>Multiplicaciones</item>
+        <item>Divisiones</item>
+        <item>General</item>
+    </string-array>
+    <string name="rb5">5 preguntas</string>
+    <string name="rb10">10 preguntas</string>
+    <string name="rb20">20 preguntas</string>
+    <string name="btContinua">Empezar test</string>
+    <string name="btResultado">Resultado del test</string>
+    <string name="tvPregunta">Pregunta</string>
+    <string-array name="arrPreguntasSuma">
+        <item>Cuantos son 2+2?</item>
+        <item>Cuantos son 2+3?</item>
+        <item>Cuantos son 2+4?</item>
+        <item>Cuantos son 2+5?</item>
+    </string-array>
+    <string-array name="arrPreguntasResta">
+        <item>Cuantos son 2 menos 2?</item>
+        <item>Cuantos son 2 menos 3?</item>
+        <item>Cuantos son 2 menos4?</item>
+        <item>Cuantos son 2 menos 5?</item>
+    </string-array>
+    <string-array name="arrPreguntasMulti">
+        <item>Cuantos son 2*2?</item>
+        <item>Cuantos son 2*3?</item>
+        <item>Cuantos son 2*4?</item>
+        <item>Cuantos son 2*5?</item>
+    </string-array>
+    <string-array name="arrPreguntasDiv">
+        <item>Cuantos son 2/2?</item>
+        <item>Cuantos son 2/3?</item>
+        <item>Cuantos son 2/4?</item>
+        <item>Cuantos son 2/5?</item>
+    </string-array>
+    <string-array name="arrPreguntasGen">
+        <item>dfgssafds</item>
+        <item>fdgssafssf</item>
+        <item>sdfsfss</item>
+        <item>gfdfsf</item>
+    </string-array>
+</resources>
